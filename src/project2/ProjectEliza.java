@@ -1,7 +1,7 @@
 package project2;
 
 import java.util.Scanner;
-public class Therapy {
+public class ProjectEliza {
 
     private static Scanner scnr = new Scanner(System.in);
     static String tempString = " ";
