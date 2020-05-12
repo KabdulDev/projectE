@@ -3,6 +3,7 @@ Author: Karimu Mohammed
 Title: Project Eliza
 Description: A small proof of concept and rebuild of the famous Eliza psychotherapy "AI"
 Github: https://github.com/KabdulDev/projectE.git
+Youtube: https://youtu.be/5BHnugfXeWI
 */
 
 package project2;
